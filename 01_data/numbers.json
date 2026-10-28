@@ -1,0 +1,11 @@
+﻿{
+  "project": "数字守楼人·活态客家魂",
+  "version": "v7.6",
+  "market": {"yongding_visitors_2025_wan": 1120, "yongding_tourism_revenue_2025_yi": 125, "nanxi_share_pct": 8, "east_share_pct_92": 92, "avg_stay_hours": 1.5, "avg_spend_yuan": 98},
+  "resources": {"world_heritage_tulou": 2, "provincial_heritage": 1, "traditional_villages": 3, "households": 112, "tulou_names": ["衍香楼", "振福楼", "环极楼"]},
+  "distances_m": {"body": 5, "light": 15.2, "digital_zone": 62},
+  "investment_wan": {"total": 4170, "government": 1018, "villagers": 1010, "company": 1159, "partners": 983},
+  "finance_t21": {"y4_revenue_wan": 1421.37, "y4_net_profit_wan": 76.39, "y4_net_margin_pct": 5.70, "peak_cash_wan": 992.29, "financing_wan": 1000, "coverage": 1.0078, "min_cash_wan": -22.71, "payback_years_excl_construction": 3.32},
+  "co_benefit": {"guesthouse_stock": "65/35", "guesthouse_increment": "60/40", "intangible": "70/20/10", "village_preferred_pct": 6, "fund_revenue_pct": 1, "fund_excess_pct": 20, "council_seats": 9},
+  "note": "所有 PPT/图表只读此文件；12%/18%/16% 已废弃，不再使用。"
+}
