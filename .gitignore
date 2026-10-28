@@ -3,3 +3,6 @@
 05_output/*.pdf
 *.tmp
 .DS_Store
+
+05_output/_render_*/
+05_output/_smoke*
